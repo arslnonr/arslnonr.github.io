@@ -134,3 +134,11 @@ You have the right to request access to, correction of, or deletion of your pers
 - Edit your name directly in the app (Profile screen)
 - Delete all data by uninstalling the app
 - Contact us at ruvira.app@gmail.com for any further requests
+
+Advertising ID
+Ruvira may access your device's Advertising ID solely for internal analytics 
+purposes, such as measuring aggregate usage patterns and improving app 
+performance. We do not use the Advertising ID for advertising, marketing, 
+personalization, or profiling. The Advertising ID is not shared with third 
+parties. You can reset or opt out of your Advertising ID at any time through 
+your device's Settings → Privacy → Ads.
