@@ -1,6 +1,6 @@
 PRIVACY POLICY
 
-Last updated April 12, 2026
+Last updated April 26, 2026
 
 This Privacy Notice for Onur Arslan ("we," "us," or "our") describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 
@@ -34,6 +34,9 @@ TABLE OF CONTENTS
 8. DO WE MAKE UPDATES TO THIS NOTICE?
 9. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 10. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+11. NOTIFICATIONS
+12. FILE IMPORT AND EXPORT
+13. NO ACCOUNT OR CLOUD SYNCHRONIZATION
 
 ---
 
@@ -132,8 +135,47 @@ Istanbul, Turkey
 You have the right to request access to, correction of, or deletion of your personal information. Since all data is stored locally on your device, you can:
 
 - Edit your name directly in the app (Profile screen)
-- Delete all data by uninstalling the app
+- Delete a notebook from inside the app to permanently remove that notebook and all of its cards from local storage
+- Remove a saved or favorited word from inside the app to permanently remove it from local storage
+- Delete all data at once by uninstalling the app
 - Contact us at ruvira.app@gmail.com for any further requests
+
+Because no copy of this data exists on any server, deletion performed inside the app or by uninstalling is final and complete.
+
+---
+
+11. NOTIFICATIONS
+
+Daily reminder notifications in Ruvira are entirely optional. They are scheduled locally on your device by the app and are not sent from any server. You can:
+
+- Enable or disable reminders at any time from the in-app Notifications settings
+- Change the reminder time and days from the same screen
+- Revoke the system notification permission from your device's settings
+
+We do not use notifications for marketing, promotions, or any purpose other than the daily study reminder you choose to schedule.
+
+---
+
+12. FILE IMPORT AND EXPORT
+
+Ruvira lets you import word lists from `.csv` or `.txt` files into a notebook, and export notebooks back to a file.
+
+- Import: When you select a file using your device's file picker, Ruvira reads that file solely to create cards inside the notebook you chose. The imported content is then treated the same as any other notebook data and remains on your device.
+- Export: When you export a notebook, the resulting file is generated on your device and handed to your operating system's share sheet. Ruvira does not upload the file to any server.
+
+We do not retain copies of files you import or export, and we do not access files you have not explicitly selected.
+
+---
+
+13. NO ACCOUNT OR CLOUD SYNCHRONIZATION
+
+Ruvira does not have user accounts, sign-in, or cloud synchronization. There is no Ruvira server that receives or stores your data. As a result:
+
+- Your data exists only on the device where you created it
+- Reinstalling the app or moving to a new device starts you from a clean state
+- There is no separate account to delete, and no server-side data to request access to
+
+---
 
 Advertising ID
 Ruvira may access your device's Advertising ID solely for internal analytics 
