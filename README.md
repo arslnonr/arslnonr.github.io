@@ -172,8 +172,30 @@ We do not retain copies of files you import or export, and we do not access file
 Ruvira does not have user accounts, sign-in, or cloud synchronization. There is no Ruvira server that receives or stores your data. As a result:
 
 - Your data exists only on the device where you created it
-- Reinstalling the app or moving to a new device starts you from a clean state
+- Ruvira does not provide account-based cloud synchronization. Your data is stored locally on your device unless you manually create and transfer a backup file using the app's backup and restore features.
 - There is no separate account to delete, and no server-side data to request access to
+
+14. LOCAL BACKUP AND RESTORE
+
+Ruvira allows you to create a local backup file containing your app data and restore that file later on the same device or another device.
+
+Backup files are created only when you explicitly choose to export a backup. These files are stored and shared using your device's operating system and are not uploaded to any Ruvira server.
+
+If you transfer a backup file to another device, the privacy and security of that file depend on how you store and share it.
+
+
+15. DATA SOURCES AND CONTENT ATTRIBUTION
+
+
+Some dictionary content in Ruvira, including vocabulary entries, translations, grammatical information, and example sentences, is based on OpenRussian.org dictionary data.
+
+OpenRussian states that its dictionary data is licensed under CC BY-SA. Ruvira may filter, reformat, rank, or otherwise adapt this content for use inside the app.
+
+OpenRussian and its contributors are not affiliated with, and do not endorse, Ruvira.
+
+More information about OpenRussian's dictionary data and licensing is available at:
+https://en.openrussian.org/dictionary-data
+
 
 ---
 
